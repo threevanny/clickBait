@@ -1,0 +1,20 @@
+/*estilos navegar*/
+.boton_bucador{
+  color: #9a9da0 !important;
+  border: 1px solid #ccc !important;
+  cursor: pointer !important;
+}
+
+.boton_bucador:hover{
+  background: tomato !important;
+  color: #fff !important;
+  border: 1px solid #ccc !important;
+}
+
+.enlace_menu{
+  cursor: pointer !important;
+}
+.enlace_menu:hover{
+  color: tomato !important;
+}
+/*end estilos navegar*/
