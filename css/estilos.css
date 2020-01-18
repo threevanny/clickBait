@@ -1,20 +1,15 @@
-/*estilos navegar*/
-.boton_bucador{
-  color: #9a9da0 !important;
-  border: 1px solid #ccc !important;
-  cursor: pointer !important;
-}
+body{
 
-.boton_bucador:hover{
-  background: tomato !important;
-  color: #fff !important;
-  border: 1px solid #ccc !important;
 }
-
-.enlace_menu{
-  cursor: pointer !important;
+nav.navbar{
+    background: red !important;
 }
-.enlace_menu:hover{
-  color: tomato !important;
+.nav-link{
+    color: white !important;
 }
-/*end estilos navegar*/
+.nav-link:hover{
+    color: yellow !important;
+}
+.navbar-brand{
+    color: yellow !important;
+}
